@@ -11,8 +11,8 @@
 - controller akan mengembalikan view detailPatient yang selanjutnya akan diisi dengan data yang telah dimasukkan sebelumnya dengan memanggil $[nama_atribut].
 
 ## B. Tampilan Form Entry
-![Capture](img/Capture.png)
-![2](img/Capture2.png)
+![Capture](img/Capture.JPG)
+![2](img/Capture2.JPG)
 
 ## C. Tampilan Hasil Data Entry
-![3](img/Capture3.png)
+![3](img/Capture3.JPG)
